@@ -17,9 +17,16 @@ It includes a **Home Page** that users are redirected to after a successful logi
 
 ## 🖼️ Screenshots
 
-*(Add your app screenshots here)*  
-📌 **Login Page**  
-📌 **Home Page**
+## 📸 Screenshots
+
+- **Login Page**  
+  ![Login Page](https://github.com/SheilaNgetich/Java_Login_App/blob/main/loginPage.png)
+
+- **Successful login to Home Page**  
+  ![Successful login to Home Page](https://github.com/SheilaNgetich/Java_Login_App/blob/main/successfulLogin.png)
+
+- **Home Page**  
+  ![Home Page](https://github.com/SheilaNgetich/Java_Login_App/blob/main/homePage.png)
 
 ## 🛠️ Tech Stack
 
@@ -32,7 +39,7 @@ It includes a **Home Page** that users are redirected to after a successful logi
 
 1. 💾 **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/java-login-app.git
+   git clone https://github.com/SheilaNgetich/Java_Login_App.git
    2. **Open the project** in NetBeans IDE.
 
 3. Make sure your **MySQL server** is running.
